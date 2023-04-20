@@ -13,7 +13,9 @@ export default function Layout({ games }) {
         <Outlet />
       </main>
 
-      <section></section>
+      <section>
+        
+      </section>
 
       <footer></footer>
     </div>
